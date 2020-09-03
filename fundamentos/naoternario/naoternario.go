@@ -1,0 +1,1 @@
+// não possui valor ternario em go
